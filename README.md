@@ -1,1 +1,1 @@
-# HorrorLocation
+простая локация :/
